@@ -133,10 +133,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80ffffff', e
 	margin: 10px 0 20px 0;
 	font-size: 22px;
 }
-header .intro-text {
+/**header .intro-text {
 	padding-top: 250px;
 	padding-bottom: 200px;
-}
+}**/
 /* Portfolio Section */
 #portfolio {
 	padding: 40px 0 100px 0;
