@@ -135,7 +135,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80ffffff', e
 }
 .embed-container { margin-bottom:40px; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; }
 .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-.embed-container-sc { margin-bottom:40px; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; }
+.embed-container-sc { margin-bottom:40px; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: 160px !important; }
 .embed-container-sc iframe, .embed-container-sc object, .embed-container-sc embed { position: absolute; top: 0; left: 0; width: 100%; height: auto; }
 /**header .intro-text {
 	padding-top: 250px;
