@@ -148,6 +148,9 @@ header .intro-text {
 		margin: auto !important;
 		z-index:1 !important;
 		position: fixed;
+		padding-bottom: 20px;
+		border-color: black;
+		border-bottom: 2px;
 	/**padding-top: 250px;
 	padding-bottom: 200px;**/
 }
