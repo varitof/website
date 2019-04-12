@@ -140,6 +140,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80ffffff', e
 
 header .intro-text {
 	position: fixed;
+	align-content: center;
+	background-color: white;
 	/**padding-top: 250px;
 	padding-bottom: 200px;**/
 }
