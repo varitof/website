@@ -139,14 +139,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80ffffff', e
 .embed-container-sc { margin-bottom:40px; z-index:0 !important;}
 
 .header{
-	background-color: white;
-	align-content: center;
-	z-index:1 !important;
-	position: fixed;
+
 }
 
 
 header .intro-text {
+		background-color: white;
+		align-content: center;
+		z-index:1 !important;
+		position: fixed;
 	/**padding-top: 250px;
 	padding-bottom: 200px;**/
 }
