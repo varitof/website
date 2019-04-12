@@ -145,7 +145,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80ffffff', e
 
 header .intro-text {
 		background-color: white;
-		padding-left: 20px !important;
+		padding-left: 30px !important;
 		width: 100vw !important;
 		margin-left: -50vw !important;
 		left: 50%;
