@@ -142,12 +142,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80ffffff', e
 	background-color: white;
 	align-content: center;
 	z-index:1 !important;
+	position: fixed;
 }
 
 
 header .intro-text {
-	position: fixed;
-
 	/**padding-top: 250px;
 	padding-bottom: 200px;**/
 }
