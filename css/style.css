@@ -151,6 +151,7 @@ header .intro-text {
 		padding-bottom: 20px;
 		border-color: black;
 		border-bottom: 2px;
+		width: 100%
 	/**padding-top: 250px;
 	padding-bottom: 200px;**/
 }
