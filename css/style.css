@@ -154,6 +154,7 @@ header .intro-text {
 }
 /* Portfolio Section */
 #portfolio {
+	margin-top: 100px;
 	padding: 40px 0 0 0;
 }
 .categories {
