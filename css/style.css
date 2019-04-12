@@ -145,11 +145,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80ffffff', e
 
 header .intro-text {
 		background-color: white;
+		width: 100%;
 		margin: auto !important;
 		z-index:1 !important;
 		position: fixed;
 		padding-bottom: 20px;
-		width: 100%;
 	/**padding-top: 250px;
 	padding-bottom: 200px;**/
 }
