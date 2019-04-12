@@ -134,9 +134,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80ffffff', e
 	margin: 10px 0 20px 0;
 	font-size: 22px;
 }
-.embed-container { margin-bottom:40px; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; }
-.embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-.embed-container-sc { margin-bottom:40px; }
+.embed-container { margin-bottom:40px; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; z-index:0;}
+.embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index:0;}
+.embed-container-sc { margin-bottom:40px; z-index:0;}
 
 .header{
 	background-color: white;
