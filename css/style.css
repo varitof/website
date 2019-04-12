@@ -155,10 +155,16 @@ header .intro-text {
 	/**padding-top: 250px;
 	padding-bottom: 200px;**/
 }
+
 /* Portfolio Section */
 #portfolio {
 	margin-top: 100px;
 	padding: 40px 0 0 0;
+}
+@media only screen and (max-width: 600px) {
+  #portfolio {
+    margin-top: 200px !important;
+  }
 }
 .categories {
 	margin-bottom: 80px;
