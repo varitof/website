@@ -505,3 +505,6 @@ nav .mbr-section-btn {
 .mbr-figure {
 	padding-top: 1px !important;
 }
+.media-container-row {
+	padding-bottom: 0 !important;
+}
