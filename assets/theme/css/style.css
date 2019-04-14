@@ -498,3 +498,7 @@ nav .mbr-section-btn {
 	top: 0;
 	left: -2400px;
 }
+/*Custom CSS*/
+.mbr-section {
+	padding-bottom: 0 !important;
+}
