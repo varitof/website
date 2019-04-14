@@ -521,7 +521,7 @@ nav .mbr-section-btn {
 /*font*/
 @font-face {
   font-family: virgula;
-  src: url(fonts/Virgula Vulgaris Bold.ttf);
+  src: url(font/fonts/Virgula Vulgaris Bold.ttf);
 }
 .navbar {
 	font-family: virgula !important;
