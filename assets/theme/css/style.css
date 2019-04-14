@@ -518,3 +518,11 @@ nav .mbr-section-btn {
 .video-block {
 	padding-top: 0 !important;
 }
+/*font*/
+@font-face {
+  font-family: virgula;
+  src: url(fonts/Virgula Vulgaris Bold.woff);
+}
+.navbar {
+	font-family: virgula !important;
+}
