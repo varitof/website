@@ -499,6 +499,7 @@ nav .mbr-section-btn {
 	left: -2400px;
 }
 /*Custom CSS*/
+/**title closer*/
 .content4 {
 	padding-bottom: 0 !important;
 }
@@ -509,5 +510,8 @@ nav .mbr-section-btn {
 	padding-bottom: 0 !important;
 }
 .pb-3 {
-	padding-botom: 0 !important;
+	padding-bottom: 0 !important;
+}
+.col-12 {
+	padding-bottom: 0 !important;
 }
