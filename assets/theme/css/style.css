@@ -523,7 +523,7 @@ nav .mbr-section-btn {
   font-family: virgula;
   src: url(fonts/fonts/virgula-vulgaris-bold.ttf);
 }
-.navbar {
+.navbar-caption , .nav-link {
 	font-family: virgula !important;
 }
 .mbr-section-title{
